@@ -8,5 +8,7 @@
 # Python cache
 *.pyc
 
-run.sh
+*/
+!run.sh
+
 
